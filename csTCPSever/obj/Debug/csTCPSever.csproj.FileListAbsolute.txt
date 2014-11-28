@@ -1,0 +1,6 @@
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\bin\Debug\csTCPSever.exe.config
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\bin\Debug\csTCPSever.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\bin\Debug\csTCPSever.pdb
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\obj\Debug\csTCPSever.csprojResolveAssemblyReference.cache
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\obj\Debug\csTCPSever.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPSever\csTCPSever\obj\Debug\csTCPSever.pdb
